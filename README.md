@@ -1,2 +1,2 @@
 #LICENSE  
-MIT: http://rem.mit-license.org  
+MIT: http://pwmckenna.mit-license.org  
